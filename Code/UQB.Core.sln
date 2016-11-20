@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UQB.Core", "UQB.Core\UQB.Core.csproj", "{5852E1ED-C101-4FD0-A350-462D8FE4DFF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UQB.CMS", "UQB.CMS\UQB.CMS.csproj", "{6C0F071C-A714-4168-A7F7-2A2B3F47D1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UQB.Core", "UQB.Core\UQB.Core.csproj", "{0F7FF02F-3042-447E-A5DE-6901A51DD1D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5852E1ED-C101-4FD0-A350-462D8FE4DFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5852E1ED-C101-4FD0-A350-462D8FE4DFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5852E1ED-C101-4FD0-A350-462D8FE4DFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5852E1ED-C101-4FD0-A350-462D8FE4DFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0F071C-A714-4168-A7F7-2A2B3F47D1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0F071C-A714-4168-A7F7-2A2B3F47D1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0F071C-A714-4168-A7F7-2A2B3F47D1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0F071C-A714-4168-A7F7-2A2B3F47D1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7FF02F-3042-447E-A5DE-6901A51DD1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7FF02F-3042-447E-A5DE-6901A51DD1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7FF02F-3042-447E-A5DE-6901A51DD1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7FF02F-3042-447E-A5DE-6901A51DD1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
