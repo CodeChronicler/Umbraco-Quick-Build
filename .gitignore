@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Code/.vs
+/Code/packages
+/Code/UQB.Core/bin
+/Code/UQB.Core/obj/Debug
